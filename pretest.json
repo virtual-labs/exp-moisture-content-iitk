@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the primary factor affecting the shelf life of high-moisture foods?",
+      "answers": {
+        "a": "Color",
+        "b": "Water activity",
+        "c": "Packaging material",
+        "d": "Nutrient content"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. Which of the following is a common method to reduce moisture content in foods?",
+      "answers": {
+        "a": "Refrigeration",
+        "b": "Vacuum packaging",
+        "c": "Drying",
+        "d": "Freezing"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What does the term 'Relative Humidity' describe?",
+      "answers": {
+        "a": "The amount of moisture in food",
+        "b": "The moisture content of air compared to its maximum capacity",
+        "c": "The weight of water in food samples",
+        "d": "The temperature of a humid environment"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Which microorganism is most likely to grow in high-moisture foods?",
+      "answers": {
+        "a": "Mold",
+        "b": "Yeast",
+        "c": "Bacteria",
+        "d": "Spores"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is the significance of using sulfuric acid in the experiment?",
+      "answers": {
+        "a": "It adds nutrients to the food sample",
+        "b": "It alters the weight of the sample",
+        "c": "It creates controlled relative humidity environments",
+        "d": "It sterilizes the desiccators"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

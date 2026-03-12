@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Why does a food sample lose or gain weight when placed in a desiccator with controlled relative humidity?",
+      "answers": {
+        "a": "Due to microbial growth",
+        "b": "Due to equilibrium moisture exchange with the environment",
+        "c": "Due to sulfuric acid absorption",
+        "d": "Due to changes in temperature"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In the experiment, which sample is likely to exhibit the highest microbial growth?",
+      "answers": {
+        "a": "The sample in the 0% sulfuric acid solution",
+        "b": "The sample in the 70% sulfuric acid solution",
+        "c": "The sample in an intermediate concentration (e.g., 50%)",
+        "d": "The sample in the 10% sulfuric acid solution"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. What can be inferred if the bread sample in a particular desiccator shows minimal weight change over 9 days?",
+      "answers": {
+        "a": "The sample is resistant to microbial growth",
+        "b": "The relative humidity of the desiccator matches the sample's equilibrium moisture content",
+        "c": "The sample absorbed all the available water",
+        "d": "The sulfuric acid concentration was incorrect"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the primary cause of microbial growth in high-moisture environments?",
+      "answers": {
+        "a": "Nutrient availability",
+        "b": "High relative humidity supporting water activity",
+        "c": "Low temperatures",
+        "d": "Absence of oxygen"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. How does this experiment help in food preservation techniques?",
+      "answers": {
+        "a": "By identifying optimal storage conditions to prevent spoilage",
+        "b": "By determining the nutrient content of food samples",
+        "c": "By enhancing the flavor of food through humidity control",
+        "d": "By eliminating all microbes from food samples"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
