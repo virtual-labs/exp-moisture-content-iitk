@@ -24,7 +24,7 @@
         "a": "The sample in the 0% sulfuric acid solution",
         "b": "The sample in the 70% sulfuric acid solution",
         "c": "The sample in an intermediate concentration (e.g., 50%)",
-        "d": "All samples equally"
+        "d": "The sample in the 10% sulfuric acid solution"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
